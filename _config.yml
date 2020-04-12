@@ -28,6 +28,10 @@ twitter_username:
 github_username:  k3chup
 show_downloads: false
 
+# disable "view on github button"
+github:
+    is_project_page: false
+
 # Build settings
 theme: jekyll-theme-midnight
 plugins:
