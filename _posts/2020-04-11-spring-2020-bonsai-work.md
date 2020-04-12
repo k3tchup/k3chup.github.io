@@ -27,3 +27,29 @@ Fast forward to a bit of trimming from the top, a soak in Superthrive, and we ar
 
 I am hoping that I've kept the moss alive around the root base.  It's always a bit of a concern when replacing the soil.
 !["Hackberry moss"](/images/20200411/hackberry_moss.jpg)
+
+# Dward Jade
+
+I am pretty happy with how my Jade is coming along. 
+!["Jade start"](/images/20200411/jade_start.jpg)
+
+Definitely needs root work. 
+!["Jade root"](/images/20200411/jade_root.jpg)
+
+Roots untangled and trimmed.   I didn't take off too much. Just enough for the tree to go back into the same pot comfortably.  
+!["Jade roots untangled and trimmed"](/images/20200411/jade_root2.jpg)
+
+I prefer to add a bit for fertilizer when I transplant.  I sprinkle a bit on to of the starting soil before the tree goes in.
+!["fertilizer"](/images/20200411/fertilizer.jpg)
+
+Pot is prepped.  Wire set.  Fertilizer is in.
+!["Pot is ready"](/images/20200411/pot_ready.jpg)
+
+I like to use a chopstick to make sure that the soil makes it into the root ball.
+!["Chopstick trick"](/images/20200411/chopstick_trick.jpg)
+
+Into the Superthrive bath for 15-20 mins.  Honestly, I am not sure if it does anything, but I've never transplanted my trees without it.  And, yep, it's a litter box.
+!["Superthrive bath"](/images/20200411/superthrive_bath.jpg)
+
+The finished product.
+!["Jade is finished"](/images/20200411/jade_finish.jpg)
