@@ -1,1 +1,5 @@
-# Nothing much here
+---
+# Nothing much here yet
+
+layout: home
+---
