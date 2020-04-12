@@ -11,7 +11,7 @@ Spring always brings lots of transplanting and trimming.   With the quarantine i
 # Hackberry
 
 Here is how we started out
-!["Hackberry starting point"](/images/20200411/hackberry_start.jpg)
+[!["Hackberry starting point"](/images/20200411/small/hackberry_start.jpg)](/images/20200411/hackberry_start.jpg)
 
 Taking this guy out of the pot definitely shows that it is starting to get root-bound.
 !["Hackberry root bound"](/images/20200411/hackberry_root.jpg)
