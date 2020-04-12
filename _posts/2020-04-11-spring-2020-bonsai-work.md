@@ -57,7 +57,7 @@ The finished product.
 # A few more finished products
 
 ## Bougainvillea
-!["Bougainvillea"](/images/20200411/bougie.jpg)
+!["Bougainvillea"](/images/20200411/bogie.jpg)
 
 ## Elm
 This guy needs a new pot.  I didn't have one that would have worked.  It's a plastic pot for now, until I can find another.
