@@ -28,14 +28,14 @@ twitter_username:
 github_username:  k3chup
 show_downloads: false
 
-# disable "view on github button"
-github:
-    is_project_page: false
-
 # Build settings
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+
+# disable "view on github button"
+github:
+    is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
