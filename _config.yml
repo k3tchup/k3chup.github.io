@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: A blog of random things
-email: your-email@example.com
+email: nospam@nospam.com
 description: >- # this means to ignore newlines until "baseurl:"
   Random stuff here.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://k3tchup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  k3chup
+show_downloads: false
 
 # Build settings
 theme: jekyll-theme-midnight
