@@ -6,7 +6,7 @@ author: k3tchup
 categories: k3tchup update
 ---
 
-Spring always brings lots of transplanting and trimming.   With the quarantine in effect, this is an excuse to me in nature, well in my back yard.
+Spring always brings lots of transplanting and trimming.   With the quarantine in effect, this is an excuse to be in nature, well in my back yard.
 
 # Hackberry
 
@@ -17,10 +17,13 @@ Taking this guy out of the pot definitely shows that it is starting to get root-
 !["Hackberry root bound"](/images/20200411/hackberry_root.jpg)
 
 Untangling the roots
-!["Hackberry root bound"](/images/20200411/hackberry_root2.jpg)
+!["Hackberry roots untangled"](/images/20200411/hackberry_root2.jpg)
 
 Trimmed and ready to go back in the same pot.   The pot is the right size for this tree.
-!["Hackberry root bound"](/images/20200411/hackberry_root_trimmed.jpg)
+!["Hackberry root trimmed"](/images/20200411/hackberry_root_trimmed.jpg)
 
 Fast forward to a bit of trimming from the top, a soak in Superthrive, and we are good to go.
-!["Hackberry root bound"](/images/20200411/hackberry_finish.jpg)
+!["Hackberry finished"](/images/20200411/hackberry_finish.jpg)
+
+I am hoping that I've kept the moss alive around the root base.  It's always a bit of a concern when replacing the soil.
+!["Hackberry moss"](/images/20200411/hackberry_moss.jpg)
