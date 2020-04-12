@@ -1,7 +1,10 @@
+--- 
+layout: default 
 ---
-layout: default
----
-<p>{{ page.date }} - Written by {{ page.author }}</p>
-
-{{ content }}
-
+<div id="single">
+  <h2 class="single__title">{{ page.title }}</h2>
+  <span class="single__date">{{ page.date | date: "%b %-d, %Y" }}</span> 
+  <article class="single__article">
+  {{ content }}
+  </article>
+</div>
