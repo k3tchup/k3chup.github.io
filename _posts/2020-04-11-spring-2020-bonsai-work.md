@@ -53,3 +53,20 @@ Into the Superthrive bath for 15-20 mins.  Honestly, I am not sure if it does an
 
 The finished product.
 !["Jade is finished"](/images/20200411/jade_finish.jpg)
+
+# A few more finished products
+
+## Bougainvillea
+!["Bougainvillea"](/images/20200411/bougie.jpg)
+
+## Elm
+This guy needs a new pot.  I didn't have one that would have worked.  It's a plastic pot for now, until I can find another.
+!["Elm"](/images/20200411/elm.jpg)
+
+The Elm started out like this.
+!["Elm start"](/images/20200411/elm_start.jpg)
+
+# Cat tax
+
+The obligatory internet cat tax.   This is Maxie.
+!["Cat tax"](/images/20200411/cat tax.jpg)
