@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about me
+#Some information about me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am just another human on the internet.  You'll find me writing about bonsai, information security, whiskey, and anything else that comes to mind.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@k3tchup](https://twitter.com/K3tchup)
