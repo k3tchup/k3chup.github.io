@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-11T22:13:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A blog of random things</title><subtitle>Random stuff here.  </subtitle><entry><title type="html">First Post</title><link href="http://localhost:4000/k3tchup/update/2020/04/11/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2020-04-11T19:26:38-04:00</published><updated>2020-04-11T19:26:38-04:00</updated><id>http://localhost:4000/k3tchup/update/2020/04/11/first-post</id><content type="html" xml:base="http://localhost:4000/k3tchup/update/2020/04/11/first-post.html">&lt;p&gt;This is the first entry in this blog.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A blog of random things</title>
+    <description>Random stuff here.  
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Apr 2020 00:11:41 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:11:41 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Spring 2020 Bonsai Work</title>
+        <description>&lt;p&gt;Spring always brings lots of transplanting and trimming.   With the quarantine in effect, this is an excuse to be in nature, well in my back yard.&lt;/p&gt;
+
+&lt;h1 id=&quot;hackberry&quot;&gt;Hackberry&lt;/h1&gt;
+
+&lt;p&gt;Here is how we started out
+&lt;img src=&quot;/images/20200411/hackberry_start.jpg&quot; alt=&quot;&amp;quot;Hackberry starting point&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Taking this guy out of the pot definitely shows that it is starting to get root-bound.
+&lt;img src=&quot;/images/20200411/hackberry_root.jpg&quot; alt=&quot;&amp;quot;Hackberry root bound&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Untangling the roots
+&lt;img src=&quot;/images/20200411/hackberry_root2.jpg&quot; alt=&quot;&amp;quot;Hackberry roots untangled&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Trimmed and ready to go back in the same pot.   The pot is the right size for this tree.
+&lt;img src=&quot;/images/20200411/hackberry_root_trimmed.jpg&quot; alt=&quot;&amp;quot;Hackberry root trimmed&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast forward to a bit of trimming from the top, a soak in Superthrive, and we are good to go.
+&lt;img src=&quot;/images/20200411/hackberry_finish.jpg&quot; alt=&quot;&amp;quot;Hackberry finished&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am hoping that I’ve kept the moss alive around the root base.  It’s always a bit of a concern when replacing the soil.
+&lt;img src=&quot;/images/20200411/hackberry_moss.jpg&quot; alt=&quot;&amp;quot;Hackberry moss&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;dward-jade&quot;&gt;Dward Jade&lt;/h1&gt;
+
+&lt;p&gt;I am pretty happy with how my Jade is coming along. 
+&lt;img src=&quot;/images/20200411/jade_start.jpg&quot; alt=&quot;&amp;quot;Jade start&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Definitely needs root work. 
+&lt;img src=&quot;/images/20200411/jade_root.jpg&quot; alt=&quot;&amp;quot;Jade root&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Roots untangled and trimmed.   I didn’t take off too much. Just enough for the tree to go back into the same pot comfortably.&lt;br /&gt;
+&lt;img src=&quot;/images/20200411/jade_root2.jpg&quot; alt=&quot;&amp;quot;Jade roots untangled and trimmed&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I prefer to add a bit for fertilizer when I transplant.  I sprinkle a bit on to of the starting soil before the tree goes in.
+&lt;img src=&quot;/images/20200411/fertilizer.jpg&quot; alt=&quot;&amp;quot;fertilizer&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pot is prepped.  Wire set.  Fertilizer is in.
+&lt;img src=&quot;/images/20200411/pot_ready.jpg&quot; alt=&quot;&amp;quot;Pot is ready&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I like to use a chopstick to make sure that the soil makes it into the root ball.
+&lt;img src=&quot;/images/20200411/chopstick_trick.jpg&quot; alt=&quot;&amp;quot;Chopstick trick&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Into the Superthrive bath for 15-20 mins.  Honestly, I am not sure if it does anything, but I’ve never transplanted my trees without it.  And, yep, it’s a litter box.
+&lt;img src=&quot;/images/20200411/superthrive_bath.jpg&quot; alt=&quot;&amp;quot;Superthrive bath&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The finished product.
+&lt;img src=&quot;/images/20200411/jade_finish.jpg&quot; alt=&quot;&amp;quot;Jade is finished&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;a-few-more-finished-products&quot;&gt;A few more finished products&lt;/h1&gt;
+
+&lt;h2 id=&quot;bougainvillea&quot;&gt;Bougainvillea&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/20200411/bogie.jpg&quot; alt=&quot;&amp;quot;Bougainvillea&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;elm&quot;&gt;Elm&lt;/h2&gt;
+&lt;p&gt;This guy needs a new pot.  I didn’t have one that would have worked.  It’s a plastic pot for now, until I can find another.
+&lt;img src=&quot;/images/20200411/elm.jpg&quot; alt=&quot;&amp;quot;Elm&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Elm started out like this.
+&lt;img src=&quot;/images/20200411/elm_start.jpg&quot; alt=&quot;&amp;quot;Elm start&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;cat-tax&quot;&gt;Cat tax&lt;/h1&gt;
+
+&lt;p&gt;The obligatory internet cat tax.   This is Maxie.
+&lt;img src=&quot;/images/20200411/cat_tax.jpg&quot; alt=&quot;&amp;quot;Cat tax&amp;quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2020 22:45:38 -0400</pubDate>
+        <link>/2020/spring-2020-bonsai-work/</link>
+        <guid isPermaLink="true">/2020/spring-2020-bonsai-work/</guid>
+        
+        
+        <category>k3tchup</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;This is the first entry in this blog.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;echo &quot;Hello word.&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>k3tchup</name></author><summary type="html">This is the first entry in this blog.</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 11 Apr 2020 19:26:38 -0400</pubDate>
+        <link>/2020/first-post/</link>
+        <guid isPermaLink="true">/2020/first-post/</guid>
+        
+        
+        <category>k3tchup</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

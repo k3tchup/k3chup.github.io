@@ -10,7 +10,8 @@ github_username:  k3chup
 show_downloads: false
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+#markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink   : /:year/:title/
 source: ./
