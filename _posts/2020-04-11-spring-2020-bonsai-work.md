@@ -14,59 +14,59 @@ Here is how we started out
 [!["Hackberry starting point"](/images/20200411/small/hackberry_start.jpg)](/images/20200411/hackberry_start.jpg)
 
 Taking this guy out of the pot definitely shows that it is starting to get root-bound.
-!["Hackberry root bound"](/images/20200411/hackberry_root.jpg)
+[!["Hackberry root bound"](/images/20200411/small/hackberry_root.jpg)](/images/20200411/hackberry_root.jpg)
 
 Untangling the roots
-!["Hackberry roots untangled"](/images/20200411/hackberry_root2.jpg)
+[!["Hackberry roots untangled"](/images/20200411/small/hackberry_root2.jpg)](/images/20200411/hackberry_root2.jpg)
 
 Trimmed and ready to go back in the same pot.   The pot is the right size for this tree.
-!["Hackberry root trimmed"](/images/20200411/hackberry_root_trimmed.jpg)
+[!["Hackberry root trimmed"](/images/20200411/small/hackberry_root_trimmed.jpg)](/images/20200411/hackberry_root_trimmed.jpg)
 
 Fast forward to a bit of trimming from the top, a soak in Superthrive, and we are good to go.
-!["Hackberry finished"](/images/20200411/hackberry_finish.jpg)
+[!["Hackberry finished"](/images/20200411/small/hackberry_finish.jpg)](/images/20200411/hackberry_finish.jpg)
 
 I am hoping that I've kept the moss alive around the root base.  It's always a bit of a concern when replacing the soil.
-!["Hackberry moss"](/images/20200411/hackberry_moss.jpg)
+[!["Hackberry moss"](/images/20200411/small/hackberry_moss.jpg)](/images/20200411/hackberry_moss.jpg)
 
 # Dward Jade
 
 I am pretty happy with how my Jade is coming along. 
-!["Jade start"](/images/20200411/jade_start.jpg)
+[!["Jade start"](/images/20200411/small/jade_start.jpg)](/images/20200411/jade_start.jpg)
 
 Definitely needs root work. 
-!["Jade root"](/images/20200411/jade_root.jpg)
+[!["Jade root"](/images/20200411/small/jade_root.jpg)](/images/20200411/jade_root.jpg)
 
-Roots untangled and trimmed.   I didn't take off too much. Just enough for the tree to go back into the same pot comfortably.  
-!["Jade roots untangled and trimmed"](/images/20200411/jade_root2.jpg)
+Roots untangled and trimmed. I didn't take off too much. Just enough for the tree to go back into the same pot comfortably.  
+[!["Jade roots untangled and trimmed"](/images/20200411/small/jade_root2.jpg)](/images/20200411/jade_root2.jpg)
 
 I prefer to add a bit for fertilizer when I transplant.  I sprinkle a bit on to of the starting soil before the tree goes in.
-!["fertilizer"](/images/20200411/fertilizer.jpg)
+[!["fertilizer"](/images/20200411/small/fertilizer.jpg)](/images/20200411/fertilizer.jpg)
 
 Pot is prepped.  Wire set.  Fertilizer is in.
-!["Pot is ready"](/images/20200411/pot_ready.jpg)
+[!["Pot is ready"](/images/20200411/small/pot_ready.jpg)](/images/20200411/pot_ready.jpg)
 
 I like to use a chopstick to make sure that the soil makes it into the root ball.
-!["Chopstick trick"](/images/20200411/chopstick_trick.jpg)
+[!["Chopstick trick"](/images/20200411/small/chopstick_trick.jpg)](/images/20200411/chopstick_trick.jpg)
 
 Into the Superthrive bath for 15-20 mins.  Honestly, I am not sure if it does anything, but I've never transplanted my trees without it.  And, yep, it's a litter box.
-!["Superthrive bath"](/images/20200411/superthrive_bath.jpg)
+[!["Superthrive bath"](/images/20200411/small/superthrive_bath.jpg)](/images/20200411/superthrive_bath.jpg)
 
 The finished product.
-!["Jade is finished"](/images/20200411/jade_finish.jpg)
+[!["Jade is finished"](/images/20200411/small/jade_finish.jpg)](/images/20200411/jade_finish.jpg)
 
 # A few more finished products
 
 ## Bougainvillea
-!["Bougainvillea"](/images/20200411/bogie.jpg)
+[!["Bougainvillea"](/images/20200411/small/bogie.jpg)](/images/20200411/bogie.jpg)
 
 ## Elm
 This guy needs a new pot.  I didn't have one that would have worked.  It's a plastic pot for now, until I can find another.
-!["Elm"](/images/20200411/elm.jpg)
+[!["Elm"](/images/20200411/small/elm.jpg)](/images/20200411/elm.jpg)
 
 The Elm started out like this.
-!["Elm start"](/images/20200411/elm_start.jpg)
+[!["Elm start"](/images/20200411/small/elm_start.jpg)](/images/20200411/elm_start.jpg)
 
 # Cat tax
 
 The obligatory internet cat tax.   This is Maxie.
-!["Cat tax"](/images/20200411/cat_tax.jpg)
+[!["Cat tax"](/images/20200411/small/cat_tax.jpg)](/images/20200411/cat_tax.jpg)
