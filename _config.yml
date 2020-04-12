@@ -35,7 +35,7 @@ plugins:
 
 # disable "view on github button"
 github:
-    is_project_page: false
+ is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
