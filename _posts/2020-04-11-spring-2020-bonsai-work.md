@@ -69,4 +69,4 @@ The Elm started out like this.
 # Cat tax
 
 The obligatory internet cat tax.   This is Maxie.
-!["Cat tax"](/images/20200411/cat tax.jpg)
+!["Cat tax"](/images/20200411/cat_tax.jpg)
